@@ -1,6 +1,5 @@
 "use client";
 import { useState } from 'react';
-import DashboardLayout from '../../components/DashboardLayout';
 import { FaMoneyBillWave, FaPlane, FaHotel, FaUtensils, FaTicketAlt } from 'react-icons/fa';
 
 export default function Expenses() {

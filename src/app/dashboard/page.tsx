@@ -1,4 +1,3 @@
-import DashboardLayout from '../../components/DashboardLayout';
 import { FaPlane, FaHotel, FaUtensils, FaMapMarkerAlt } from 'react-icons/fa';
 
 export default function Dashboard() {
